@@ -1,8 +1,10 @@
-# JSON Viewer
+# JSON Beautifier
+
+Forked from https://github.com/Secretmapper/jsonviewer, this project aims to provide more features for working with JSON data.
 
 ## Introduction
 
-JSON Viewer is a jolly good JSON Viewer
+JSON Beautifier is a tool to visualize your JSON in various formats.
 
 ## Technology
 

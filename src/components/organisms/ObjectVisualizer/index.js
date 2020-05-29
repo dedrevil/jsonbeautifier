@@ -15,6 +15,7 @@ const treeOpts = {
   },
   heightBetweenNodesCoeff: 1,
   widthBetweenNodesCoeff: 1.3,
+  size: 1000,
   tooltipOptions: {
     offset: {left: 50, top: 10},
     indentationSize: 2,

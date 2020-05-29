@@ -1,5 +1,5 @@
 {
- "name": "JSON Viewer",
+ "name": "App",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
@@ -37,8 +37,5 @@
    "type": "image\/png",
    "density": "4.0"
   }
- ],
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#292828"
+ ]
 }

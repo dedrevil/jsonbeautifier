@@ -5,7 +5,7 @@ import JSONTree from 'react-json-tree'
 const theme = {
   // http://chriskempson.github.io/base16/
   scheme: 'modified-railscasts',
-  author: 'secretmapper',
+  author: 'poopcode',
   base00: '#2b2b2b',
   base01: '#272935',
   base02: '#3a4055',

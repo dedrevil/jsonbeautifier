@@ -42,8 +42,8 @@ export default class MainEditor extends Component {
         title={
           <FullWidth>
             <h3>
-              <span>JSON</span>
-              <small>Type Here</small>
+              <span>JSON Beautifier by Poopcode</span>
+              <small></small>
               <Bulb
                 inline
                 color={isCodeValidJSON ? 'lightgreen' : 'red'}
@@ -63,7 +63,7 @@ export default class MainEditor extends Component {
         main={
           <CodeMirror
             value={code}
-            onValueChange={(editor, metadata, value) => onChangeCode(value)}
+            onChange={(editor, metadata, value) => onChangeCode(value)}
             innerRef={this.editorRefCallback}
             options={{
               tabSize: 4,

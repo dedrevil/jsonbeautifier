@@ -3,7 +3,8 @@ import styled from 'styled-components'
 export default styled.div`
   font-family: montserrat;
   border-bottom: solid 1px rgba(255, 255, 255, 0.02);
-  margin: 15px 0;
+  margin: 5px 0;
+  align-content: center;
 
   & > li {
     border-top: solid 1px rgba(255, 255, 255, 0.02);
@@ -14,7 +15,7 @@ export default styled.div`
 
     & > a {
       display: block;
-      padding: 5px 15px;
+      padding: 5px 5px;
       margin-left: -15px;
       margin-right: -15px;
       color: #818387;
